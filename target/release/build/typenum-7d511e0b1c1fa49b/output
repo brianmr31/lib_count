@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/brian/Research/rust/lib_count/target/release/build/typenum-7d511e0b1c1fa49b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/brian/Research/rust/lib_count/target/release/build/typenum-7d511e0b1c1fa49b/out/op.rs

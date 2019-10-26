@@ -1,0 +1,1 @@
+{"rustc":7665592658600834686,"features":"[]","target":16978048515455336917,"profile":2574335274271406459,"path":10872709659218687626,"deps":[[7295586439379729683,"postgres",false,11111780252675928548]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/lib_count-fdfec79c6e74364c/dep-lib-count"}}],"rustflags":[],"metadata":351028336762106642}
